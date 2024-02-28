@@ -16,7 +16,7 @@ The Heart Disease Predictor is a tool aimed at assisting healthcare professional
 
 **Prediction:** Click on the "Predict" button to generate a prediction on the likelihood of heart disease.
 
-# Result: 
+## Result: 
 
 Receive the prediction result indicating whether the individual is likely to have heart disease or not.
 
