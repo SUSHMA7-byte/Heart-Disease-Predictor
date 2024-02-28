@@ -13,6 +13,7 @@ The Heart Disease Predictor is a tool aimed at assisting healthcare professional
 **Informative Explanations:** Provides explanations for various input parameters to help users understand the significance of each factor in predicting heart disease.
 ## Usage
 **Input Data:** Enter relevant medical data such as age, sex, cholesterol levels, and exercise habits into the application.
+
 **Prediction:** Click on the "Predict" button to generate a prediction on the likelihood of heart disease.
 
 # Result: 
