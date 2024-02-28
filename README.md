@@ -1,4 +1,5 @@
-#Heart Disease Predictor#
+# Heart Disease Predictor
+
 Welcome to the Heart Disease Predictor repository! Our application is designed to predict the likelihood of heart disease based on various input factors. It utilizes machine learning algorithms to analyze data and provide predictions to users.
 
 **About**
